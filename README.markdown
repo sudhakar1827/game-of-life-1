@@ -3,7 +3,7 @@ This is a simple demonstration application used in the [Jenkins: The Definitive 
 ## Building the project
 # my changes added to 
 # add another change with slave and master
-# webhook change has been updated
+# java home variable has been changed
 The project is a simple multi-module Maven project. To build the whole project, just run `mvn install` from the root directory.
 
 ## Running the game
